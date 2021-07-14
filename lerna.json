@@ -3,7 +3,7 @@
       "packages/*"
     ],
     "publishConfig":{
-       "access": "public"
+        "access": "public"
     },
       "command": {
           "publish": {
