@@ -1,6 +1,7 @@
 {
   "name": "lints",
   "version": "0.0.1",
+  "private": true,
   "description": "代码规范",
   "main": "index.js",
   "scripts": {
