@@ -5,7 +5,7 @@
   "description": "代码规范",
   "main": "index.js",
   "scripts": {
-    "lerna:publish": "lerna publish from-package --yes"
+    "lerna:publish": "lerna publish from-package --yes --no-verify-access"
   },
   "repository": {
     "type": "git",
