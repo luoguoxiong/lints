@@ -4,7 +4,6 @@
   "description": "代码规范",
   "main": "index.js",
   "scripts": {
-    "install": "lerna bootstrap",
     "lerna:publish": "lerna publish from-package --yes"
   },
   "repository": {
