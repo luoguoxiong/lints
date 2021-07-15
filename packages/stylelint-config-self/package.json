@@ -14,6 +14,14 @@
   "publishConfig": {
       "access": "public"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoguoxiong/lints.git"
+  },
+  "author": "luoguoxiong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luoguoxiong/lints/issues"
+  },
+  "homepage": "https://github.com/luoguoxiong/lints#readme"
 }

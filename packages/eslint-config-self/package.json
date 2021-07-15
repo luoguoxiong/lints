@@ -1,6 +1,6 @@
 {
   "name": "@tools-list/eslint-config-self",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "./index.js",
   "scripts": {
@@ -24,6 +24,14 @@
   "publishConfig": {
     "access": "public"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoguoxiong/lints.git"
+  },
+  "author": "luoguoxiong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luoguoxiong/lints/issues"
+  },
+  "homepage": "https://github.com/luoguoxiong/lints#readme"
 }

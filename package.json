@@ -1,6 +1,6 @@
 {
   "name": "lints",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "private": true,
   "description": "代码规范",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/luoguoxiong/lints.git"
   },
-  "author": "",
+  "author": "luoguoxiong",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/luoguoxiong/lints/issues"
