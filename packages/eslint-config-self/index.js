@@ -154,7 +154,6 @@
       "one-var-declaration-per-line": 2, // 禁止一次性定义多个变量
       "key-spacing": [2, {"afterColon": true}], // object的key的“:”之后至少有一个空格
       "import/order": 2, // import引入按照一定顺序
-      "import/no-default-export": 2, // 不允许defalut export  --CUSTOM
       "no-inner-declarations": 1, // 禁止在嵌套的块中出现变量声明或 function 声明  --CUSTOM
       "require-atomic-updates": 1,　// 禁止由于 await 或 yield的使用而可能导致出现竞态条件的赋值  --CUSTOM
       "no-case-declarations": 1, // 不允许在 case 子句中使用词法声明  --CUSTOM
