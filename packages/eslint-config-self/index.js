@@ -19,6 +19,7 @@
       "plugin:@typescript-eslint/eslint-recommended",
       "plugin:@typescript-eslint/recommended",
       "plugin:promise/recommended",
+      "plugin:json/recommended",
       // 关闭eslint配置中与prettier冲突的格式化规则
       "prettier",
     ],
